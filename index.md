@@ -10,5 +10,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-
+# Lista a fazer
+- [ ] Aprender a usar o Github
+- [ ] Ir na academia
+- [X] Comprar frutas
+      
 Arquivo modificado em 28/07 
